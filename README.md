@@ -1,4 +1,4 @@
-# Hi, I'm Ziwen Mu👋
+# Hi, I'm Ziwen👋
 
 ## About Me
 
