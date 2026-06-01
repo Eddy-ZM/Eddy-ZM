@@ -32,10 +32,6 @@ A chemistry research platform featuring:
 
 https://chemvault.science
 
-📧 Contact:
-
-contact@chemvault.science
-
 🔗 Repository:
 
 https://github.com/Mu-Eddy/ChemVault
@@ -77,6 +73,9 @@ I am interested in the intersection of chemistry and computing, particularly:
 
 Website:
 https://chemvault.science
+
+Mail:
+contact@chemvault.science
 
 GitHub:
 https://github.com/Mu-Eddy
