@@ -32,6 +32,10 @@ A chemistry research platform featuring:
 
 https://chemvault.science
 
+📧 Contact:
+
+contact@chemvault.science
+
 🔗 Repository:
 
 https://github.com/Mu-Eddy/ChemVault
