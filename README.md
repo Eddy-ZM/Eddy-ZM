@@ -78,7 +78,7 @@ Mail:
 contact@chemvault.science
 
 GitHub:
-https://github.com/Mu-Eddy
+https://github.com/Eddy-ZM
 
 Location:
-Manchester, United Kingdom
+Manchester, United Kingdom / Zhejiang China
